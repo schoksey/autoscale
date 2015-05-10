@@ -170,7 +170,7 @@ auto br-ex
 iface br-ex inet static
       address #{VM_NET}.2
       netmask 255.255.255.0
-      up ip route add 10.0.0.0/24 via #{VM_NET}.3 dev br-ex
+      # up ip route add 10.0.0.0/24 via #{VM_NET}.3 dev br-ex
 BREX
 
     # Download post.sh
