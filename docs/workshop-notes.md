@@ -35,3 +35,5 @@ generate load
 strip out all unnecessary services - swift, trove, cinder, sahara
 
 line 1 - added to feature/1.4
+Line 1 - added to rel/2.2
+Line 1 - merged rel/2.2 into feature/1.4
