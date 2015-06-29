@@ -28,7 +28,7 @@ create floating ip to lb vip
 
 Test lb vip, watch + wget -O- http://vip-ip
 
-3rd exercise - add autoscaling to exercise 4
+3rd exercise - add autoscaling 
 
 generate load
 
